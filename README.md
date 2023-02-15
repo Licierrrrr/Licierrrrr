@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Licierrrrr
 - 👀 I’m interested in c# and unity
-- 🌱 I’m currently learning 数据结构和算法
+- 🌱 I’m currently learning Unity&&C#
 - 💞️ I’m looking to collaborate on ...
 
 <!---
